@@ -1,43 +1,223 @@
 #EXTM3U x-tvg-url="http://rtm.samsam123.tk/rtmklik.xml" url-tvg="http://rtm.samsam123.tk/rtmklik.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK01" tvg-id="RTMK01" tvg-chno="RTMK01" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",TV1 [HLS]
+=======================================================================================================================================================================================================================================================================================
+#TV1
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",CH101 TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK02" tvg-id="RTMK02" tvg-chno="RTMK02" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV2.jpg",TV2 [HLS]
+#TV2
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",CH102 TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK03" tvg-id="RTMK03" tvg-chno="RTMK03" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV%20Okey.jpg",TV Okey [HLS]
+#OKEY TV
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png",CH146 OKEY TV
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK04" tvg-id="RTMK04" tvg-chno="RTMK04" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Berita%20RTM.jpg",Berita RTM [HLS]
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK05" tvg-id="RTMK05" tvg-chno="RTMK05" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Sukan%20RTM.jpg",Sukan RTM [HLS]
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK06" tvg-id="RTMK06" tvg-chno="RTMK06" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV6.jpg",TV6 [HLS]
+#TV6
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH109 TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK07" tvg-id="RTMK07" tvg-chno="RTMK07" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Rakyat.jpg",Dewan Rakyat [HLS]
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+#BERITA RTM
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH519 BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK08" tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Negara.jpg",Dewan Negara [HLS]
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+#SUKAN RTM
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH827 SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#TV3
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",CH103 TV3
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd 
+
+#TV9
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",CH149 TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+
+#DRAMA SANGAT
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",CH150 DRAMA SANGAT
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+
+#ASTRO AWANI
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",CH501 ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#NTV7
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",CH147 NTV7
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+
+#8TV
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",CH148 8TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/ 
+https://aqfadtv.xyz/live/8tv/index.mpd
+
+#TV AL-HIJRAH
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",CH114 AL-HIJRAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/ 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#HITS MOVIES
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",CH401 HITS MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
+
+#BOO
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",CH404 BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+
+#HBO
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",CH411 HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304 
+https://aqfadtv.xyz/live/hbo/index.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+
+#CINEMAX
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",CH412 CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#SHOWCASE MOVIES
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png",CH413 SHOWCASE MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+
+#HBO FAMILY
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",CH414 HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+
+#HBO HITS
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",CH415 HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+
+#CCM
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CH321 CCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100 
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
+https://anevia114.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#CELESTIAL MOVIES
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",CH309 CELESTIAL MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506 
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
+https://anevia114.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#HITS
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",CH706 HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
+
+#TVN
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",CH395 TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1001/ 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+
+#ANIMAX
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://www.animaxtv.com/images/logo_animax.png",CH705 ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf 
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#ASTRO ARENA
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",CH801 ASTRO ARENA
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#UNIFI SPORT 1
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH825 UNIFI SPORT 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#TENNIS CHANNEL
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH826 TENNIS CHANNEL
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#MOVIE SPHERE
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH418 MOVIE SPHERE
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+#HBO SIGNATURE
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH417 HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpD
+
+#BERNAMA TV
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",CH502 BERNAMA TV
+https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=200299504
+
+#TVS
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",CH122 TVS
+https://live.mana2.my/TVS/index.m3u8?organizationId=196288014&suiteItemId=217854390
+
+#TVN MOVIES
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",CH416 TVN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+#https://anevia114.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#BEIN SPORTS
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",CH818 BEIN SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+
+#NAT GEO WILD
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",CH550 NAT GEO WILD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default.mpd
+
+#BBC EARTH
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png",CH554 BBC ERTH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
+
+#ANIMAL PLANET
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png",CH556 ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
+
+#HGTV
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",CH715 HGTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default.mpd
+
+#PLUTO TV (ANIMAL)
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH PLUTO TV (ANIMAL)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
+
+#LOVE NATURE 4K
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/472_144.png",CH549 LOVE NATURE
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#INWILD
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH INWILD
+https://inwild-samsungau.amagi.tv/playlist720-p.m3u8
+
+#WIRED2FISH
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH WIRED2FISH
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8?checkedby:iptvcat.com
+
+#XPLORE HD
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",CH XPLORE
+https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
