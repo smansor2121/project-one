@@ -111,8 +111,7 @@ https://anevia114.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClass
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",CH309 CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506 
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
-https://anevia114.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #HITS
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",CH706 HITS
@@ -163,7 +162,7 @@ https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=20
 
 #TVS
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",CH122 TVS
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #TVN MOVIES
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",CH416 TVN MOVIES
