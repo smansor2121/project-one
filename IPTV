@@ -27,15 +27,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 #TV3
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",CH103 TV3
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd 
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
 #TV9
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",CH149 TV9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
 #DRAMA SANGAT
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",CH150 DRAMA SANGAT
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
 #ASTRO AWANI
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",CH501 ASTRO AWANI
@@ -49,7 +49,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",CH148 8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/ 
-https://aqfadtv.xyz/live/8tv/index.mpd
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
 #TV AL-HIJRAH
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",CH114 AL-HIJRAH
@@ -163,7 +163,7 @@ https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=20
 
 #TVS
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",CH122 TVS
-https://live.mana2.my/TVS/index.m3u8?organizationId=196288014&suiteItemId=217854390
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 #TVN MOVIES
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",CH416 TVN MOVIES
